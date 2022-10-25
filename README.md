@@ -6,7 +6,9 @@ The purpose of this analysis was to :analyze and filter employee data at Pewlett
 ---
 ## Results: 
 - In total, there are 72,458 employees who are up for retirement. Filtering by title, we have the below results for each title, so that departments can predict how many staff by department may need to be replaced in the upcoming year as employees retire.
+
 ![retiring_titles.png](Data/retiring_titles.png)
+
 - After close analysis of the mentorship eligibility table created through SQL and joining numerous csv's information on employees, we can see that 1549 employees are eligible for the mentorship program.
 
 Data Resources: [retirement_titles.csv](Data/retirement_titles.csv), [mentorship_elgibility.csv](Data/mentorship_eligibility.csv)
